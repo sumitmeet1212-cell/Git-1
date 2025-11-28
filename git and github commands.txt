@@ -1,0 +1,12 @@
+for 1st time, we need to configure github in our system
+
+git config --global user.name "sumitmeet1212-cell"
+git config --global user.email "sumitmeet1212@gmail.com"
+git config --global color.ui auto
+
+Mandatory Commands:
+>>git init
+>>git remote add origin https://github.com/sumitmeet1212-cell/Git-1.git
+
+
+git pull origin main
